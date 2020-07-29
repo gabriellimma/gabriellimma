@@ -10,4 +10,4 @@ I'm an technology afficionate who tries hard to make the word a better place.
 - 💬 Ask me about: philosofy, music and games.
 - ⚡ Technologies: Angular, Spring, Bootstrap.
 
-![here is my stats](https://github-readme-stats.vercel.app/api?username=bielzin42&show_icons=true&hide_border=true)
+![here is my stats](https://github-readme-stats.vercel.app/api?username=biel42&show_icons=true&hide_border=true)
