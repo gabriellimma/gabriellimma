@@ -15,7 +15,7 @@
     <h3 align="center">
       Sites que desenvolvi:
     </h3>
-    <div align="center"><a href="https://cresci.vercel.app/home">Cresci</a> <a
+    <div align="center"><a href="https://cresci.vercel.app/home" target="_blank">Cresci</a> <a
         href="https://you-up.vercel.app/home">You-Up</a> <a href="https://later-flix.vercel.app/">LaterFlix</a> </div>
     <p align="center">
       <h3 align="center">
