@@ -27,7 +27,7 @@ Sou estudande de desenvolvimento web apaixonado por aprender e ensinar, faço al
        <h3>
                Sites que desenvolvi:
        </h3>        
-        <a href="https://cresci.vercel.app/home">Cresci</a><a href="https://you-up.vercel.app/home">You-Up</a><a href="https://later-flix.vercel.app/">LaterFlix</a>
+        <a href="https://cresci.vercel.app/home">Cresci</a>	<a href="https://you-up.vercel.app/home">You-Up</a>	<a href="https://later-flix.vercel.app/">LaterFlix</a>
 	<p align="center">								
 			<h3>
 					Tecnologias usadas:
