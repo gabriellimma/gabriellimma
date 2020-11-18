@@ -1,11 +1,5 @@
 <img src="https://raw.githubusercontent.com/biel42/biel42/master/b42.svg">
 <p align="center">
-  <a href="https://github.com/https://github.com/biel42">
-    <img src="https://github-readme-stats.vercel.app/api?username=biel42&theme=tokyonight&show_icons=false" />
-  </a>
-</p>
-</p>
-<p align="center">
   <ul>
     <h3 align="center">
       Sites
