@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/biel42/biel42/master/b42.svg">
+<img src="https://raw.githubusercontent.com/biel42/biel42/master/B42.svg">
 <p align="center">
   <ul>
     <h3 align="center">
