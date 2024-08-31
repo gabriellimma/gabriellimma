@@ -1,6 +1,6 @@
 <p align="center">
   Olá, sou um desenvolvedor apaixonado por resolver problemas de formas simples. Hoje atuo como Engenheiro de Qualidade no
-  Itaú, com foco em automação de processos e de testes. Fora isso, me aventuro desenvolvendo sites para web. Meu último trabalho foi o site da MRA Remoção.
+  Itaú, com foco em automação de processos e de testes. Fora isso, me aventuro desenvolvendo sites para web.
   <ul>
     <h3 align="center">
       Sites
